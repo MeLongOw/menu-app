@@ -1,0 +1,11 @@
+export { default as About } from "./About";
+export { default as ForgotPassword } from "./ForgotPassword";
+export { default as GetStart } from "./GetStart";
+export { default as Home } from "./Home";
+export { default as Login } from "./Login";
+export { default as Menu } from "./Menu";
+export { default as Post } from "./Post";
+export { default as QRcode } from "./QRcode";
+export { default as SignUp } from "./SignUp";
+export { default as NotFound } from "./NotFound";
+export { default as Checkout } from "./Checkout";
